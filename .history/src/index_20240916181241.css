@@ -1,0 +1,9 @@
+.main-containter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.layout {
+    justify-content: center;
+}

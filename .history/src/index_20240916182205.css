@@ -1,0 +1,21 @@
+.layout {
+    align-items: center;
+    text-align: center;
+}
+
+.main-containter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+    line-height: 4px;
+    font-size: 15px;
+    width: 60%;
+    background-color: #eee;
+    margin: 40px auto;
+}
+
+.names {
+    padding: 15px 0;
+    font-size: 25px;
+}
